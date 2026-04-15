@@ -190,5 +190,7 @@ Enter log: exit
 ---
 
 ## Authors
+POOJA KOPPAD
+SHREYAS 
+NIDHI KARKADA
 
-Developed at **PES University, Department of CSE**, Bangalore, Karnataka, India.
